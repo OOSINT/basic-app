@@ -5,9 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-         <h1>Just want my own stuff</h1>
+         <h1>Row our boats</h1>
         <p>
-          Triggered by hooks
+          Triggered by hooks and updated from the folk
+        </p>
+        <p>
+          <img src="logo192.png" width="200px"/>
         </p>
         <a
           className="App-link"
